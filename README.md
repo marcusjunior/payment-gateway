@@ -5,7 +5,8 @@ A Payment Gateway API é uma aplicação em NestJS que consome mensagens de pedi
 ## Pré-requisitos
 
 - Node.js
-- npm ou yarn
+- npm
+- NestJS
 - Docker (para RabbitMQ)
 
 ## Configuração
