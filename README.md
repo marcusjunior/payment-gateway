@@ -26,7 +26,7 @@ A Payment Gateway API é uma aplicação em NestJS que consome mensagens de pedi
    ```
 
    ```sh
-   npm run dev
+   npm start
    ```
 
   ```sh
